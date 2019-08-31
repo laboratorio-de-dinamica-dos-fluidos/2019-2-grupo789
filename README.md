@@ -16,12 +16,14 @@ Esse efeito será comprovado fazendo um experimento utlizando um carrinho com um
 
 ### Requisitos de Solução
 
+* Observar e analisar o movimento gerado pelo Efeito Magnus sobre o carrinho;
 * Calcular a força gerada pelo corpo rotativo com bernoulli e comparar com o experimento;
 * Observar o que acontece com o corpo com o uso de linhas de emissão;
 * 
 ### Escopo do Experimento 
-<p>Um carrinho será construído pela equipe com um aparato rotativo na sua parte superior, e esse carrinho será colcado na frente de um ventilador, e o fluxo de ar criado pelo ventilador irá gerar uma força para fazer o carrinho andar. Para validar os dados calculados será feito uma análise de velocidade do carrinho para observar que a força gerada pelo efeito magnus é proxima dos valores obtidos pela equipe.</p>
-<p>Com uma cartolina preta onde será(Desenhada uma metrica/ regua sei la esqueci a pallavra me ajudem kkk(delta s)) e uma câmera instalada na parte superior do experimento para poder observar as linhas de corrente e tambem fazer o uso do software Cvmob para medir a velocidade do carro.</p>
+<p>Um carrinho será construído pela equipe com um aparato rotativo na sua parte superior, e esse carrinho será colocado na frente de um ventilador e o fluxo de ar criado pelo ventilador irá gerar uma força, a qual ocasionará a movimentação do carrinho, segundo o Efeito Magnus.</p>
+<p>Para validar o experimento, será calculada teoricamanete a força gerada pelo efeito do fluido sobre o cilindro, após esse processo, será feito a medição da velocidade do ar e a velocidade do carrinho para obtermos a força resultante gerada experimentalmente. Com esses dados, podemos avaliar a proximidade dos resultados teóricos e experimentais.</p>
+<p>Com uma cartolina preta, em que será desenhada uma escala metrica e uma câmera instalada na parte superior do experimento para poder observar as linhas de corrente e tambem fazer o uso do software Cvmob para medir a velocidade do carro. (eu arrumo isso depois, by Manu)</p>
 
 ### Avaliação de viabilidade
 
@@ -29,7 +31,7 @@ Esse efeito será comprovado fazendo um experimento utlizando um carrinho com um
 * carrinho de baixo custo
 * motor elétrico
 * ventilador
-* cartolina preta
+* cartolina preta com escala numérica
 * incenso
 * câmera
 * software Cvmob
