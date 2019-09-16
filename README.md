@@ -52,8 +52,14 @@ Criar um aparato experimental para comprovar o resultado do Efeito Magnus, tal o
 
 <p> A realização do experimento e a medição de dados deverá levar pelo menos mais 2 horas para obter a melhor forma de verificar o efeito magnus. </p>
 
-<p> O integrante Arthur de Lima Queiroga ficará responsável pela montagem e execução do esperimento.</p>
-  
+<p> O integrante Arthur de Lima Queiroga ficará responsável pela montagem do carrinho. a integrante XXX deverá cmoprar e preparar a cartolina com o referencial e a integrante XXXX deve arrumar o incesno para podermos observar as linhas de corrente. Com a união desses aparatos o experimento será realizado pelos 3 integrantes do grupo.</p>
+
+Datas | Tarefas
+------|--------
+18/09 | Reunião
+25/09 | Carrinho montado, cartonlina pronta e incenso em mãos
+27/09 | Ensaio simples para validar o movimento do carro
+
 ### 2.2 Determinação dos dados a serem medidos e/ou calculados
 * Velocidade do fluxo que chega ao carrinho
 * Força de atrito das 4 rodas do carrinho 
