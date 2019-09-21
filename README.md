@@ -7,10 +7,10 @@
 
 ## 1. Início
 
-### 1.1 Tema:  
+### 1.1 Tema  
 Efeito Magnus
 
-### 1.2 Objetivos:  
+### 1.2 Objetivos  
 
 Criar um aparato experimental para comprovar o resultado do Efeito Magnus, tal objetivo será alcançado por meio de um experimento utlizando um carrinho leve com um dispositivo circular giratório sobre ele e um ventilador. Com isso poderemos provar que um dispositivo girando em um ambiente onde há fluxo de ar gera uma força que faz o carro se mover.
 
@@ -72,4 +72,30 @@ Datas | Tarefas
 ### 2.3 Resultados esperados 
 
 <p> O esperado é um movimento retilínio uniformemente variado do carrinho na direção perpendicular ao fluxo da ar proveniente do ventilador, comprovando o Efeito Magnus sobre a parte cilindrica do corpo de prova. Além disso, espera-se que, com as linhas de corrente emitidas pelo incenso, poderá ser observado que em um lado do copo girando o fluxo está sendo acelerado e no outro lado a velocidade está sendo reduzida, gerando, assim, um vortex.</p>  
+
+## 3. Execução
+
+### 3.1 Divisão de Tarefas  
+
+</p> A divisão de tarefas permanecerá a mesma como descrita no tópico 2.1. A construção do projeto será feita em conjunto, bem como, a compra e confecção dos materiais. A execução deverá ser feita com todos os membros do grupo presentes.</p>
+
+Datas | Tarefas
+------|--------
+21/09 | Reunião online para redefinir parâmetros de análise
+25/09 | Aparato completo e pronto para a execução
+27/09 | Ensaio simples para validar o movimento do carro
+
+### 3.2 Descrição dos Procedimentos Realizados
+
+#### 3.2.1 Fotos do Experimento Montado:
+
+#### 3.2.2 Descrição de cada procedimento executado e justificativa:
+
+</p> Descrever cada etapa e procedimento que realizamos e analisar os dados obtidos, justificando caso há algum dado discrepante.</p>
+
+#### 3.2.3 Dados medidos:
+
+</p> Apresentar fotos e videos do experimento sendo feito, os quais deverão conter o movimento do carrinho e as linhas de dcorrente obtidas com o incenso.</p>
+
+
 
