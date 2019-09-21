@@ -42,35 +42,34 @@ Criar um aparato experimental para comprovar o resultado do Efeito Magnus, tal o
 * cartolina preta com escala numérica
 * incenso
 * câmera
-* software Cvmob
-* anemômetro
 
-## 2 Planejamento e Preparação
+
+## 2. Planejamento e Preparação
 ### 2.1 Procedimentos Experimentais
+
+* Estimativa de tempo:
+>Será necessário um periodo de 1 semanas para a montagem e execução do projeto. Além disso, prevemos 2 semanas para analisar possiveis desvios do resultado desejado e para consertar possiveis erros.
  
-<p> Para a realização do procedimento experimental algumas tarefas devem ser cumpridas antes. Començando pela construção do carrinho  que deve segurar um aparato rotativo sem danificar o carro ou ferir alguém. Em seguida na cartolina preta será feita uma marcação métrica para auxiliar o uso do software Cvmob. Uma outra parte importante é a posição do ventilador que deverá ser fixada a uma certa distância e a essa distância obter a velocidade do fluxo que chega a parte rotativa do carro. Para essa parte dos preparativos do experimento, será usado aproximadamente 4 horas para arrumar o carrinho, a cartolina e o ventilador.</p> 
+* Responsabilidades de cada membro:
+>A construção do projeto será feita em conjunto, bem como, a compra e confecção dos materiais. A execução deverá ser feita com todos os membros do grupo presentes.
 
-<p> A realização do experimento e a medição de dados deverá levar pelo menos mais 2 horas para obter a melhor forma de verificar o efeito magnus. </p>
-
-<p> O integrante Arthur de Lima Queiroga ficará responsável pela montagem do carrinho. a integrante XXX deverá cmoprar e preparar a cartolina com o referencial e a integrante XXXX deve arrumar o incesno para podermos observar as linhas de corrente. Com a união desses aparatos o experimento será realizado pelos 3 integrantes do grupo.</p>
+* Cronograma estimado: para a montagem e realização do experimento completo
 
 Datas | Tarefas
 ------|--------
-18/09 | Reunião
-25/09 | Carrinho montado, cartonlina pronta e incenso em mãos
+21/09 | Reunião online para redefinir parâmetros de análise
+25/09 | Aparato completo e pronto para a execução
 27/09 | Ensaio simples para validar o movimento do carro
 
+
 ### 2.2 Determinação dos dados a serem medidos e/ou calculados
-* Velocidade do fluxo que chega ao carrinho
-* Força de atrito das 4 rodas do carrinho 
-* Massa do carro
-* Velocidade angular da parte rotativa
-* Sustentação 
-* Arrasto
-* Força resultante gerada pela sustentação e o arrasto
-* Distância percorrida pelo carrinho 
-* Tempo de deslocamento
-* Velocidade do carrinho ao se mover
+
+* Movimentação do carrinho.
+* Linhas de corrente do fluxo de ar sobre o carrinho.
+* Distância percorrida pelo carrinho.
+* Tempo de deslocamento.
 
 ### 2.3 Resultados esperados 
-<p> O esperado é um movimento retilínio uniformemente variado do carrinho para ser analisado no Cvmob. Dessa forma será provado a existência do efeito magnus nesse experimento. E também, com as linhas de corrente emitidas pelo incenso poderá ser observado que em um lado do copo girando o fluxo está sendo acelerado e no outro lado a velocidade está sendo reduzida e com esses dois fatores há a formação de vortex.</p>  
+
+<p> O esperado é um movimento retilínio uniformemente variado do carrinho na direção perpendicular ao fluxo da ar proveniente do ventilador, comprovando o Efeito Magnus sobre a parte cilindrica do corpo de prova. Além disso, espera-se que, com as linhas de corrente emitidas pelo incenso, poderá ser observado que em um lado do copo girando o fluxo está sendo acelerado e no outro lado a velocidade está sendo reduzida, gerando, assim, um vortex.</p>  
+
