@@ -33,7 +33,7 @@ Criar um aparato experimental para comprovar o resultado do Efeito Magnus, tal o
 * As ferramentas necessárias para comparar os resultados são viáveis?
 >>Utilizaremos um software aberto para o cálculo da velocidade do carrinho e chegarmos na força experimental com a qual ele é submetido, dado esse resultado podemos comparar com a força teórica (Equação de Bernoulli). Uma vez que o software Cvmob é gratuito a comparação torna-se totalmente viável.
 * Qual o tempo necessário para cumprir cada tarefa?
->>A príncipio será disponibilizado o horário de 2h semanais para a execução das etapas do projeto para todos os integrantes. Cada tarefa será realizade de forma a otimizar o estudo. Primeiro montar a base com os equipamentos e medir todos os parâmetros necessários, em seguida os cálculos teóricos e experimentais e, por fim, análise de todos os resultados. Caso seja necessário, a carga horária pode ser aumentada de acordo com o disponibilidade de cada integrante. 
+>>A príncipio será disponibilizado o horário de 2h semanais para a execução das etapas do projeto para todos os integrantes. Cada tarefa será realizada de forma a otimizar o estudo. Primeiro montar a base com os equipamentos e medir todos os parâmetros necessários, em seguida os cálculos teóricos e experimentais e, por fim, análise de todos os resultados. Caso seja necessário, a carga horária pode ser aumentada de acordo com o disponibilidade de cada integrante. 
 
 ### 1.6 Materiais 
 * carrinho de baixo custo
