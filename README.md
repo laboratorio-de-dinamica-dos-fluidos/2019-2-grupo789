@@ -24,15 +24,15 @@ Efeito Magnus
   
   ![Efeito Magnus](https://img2.gratispng.com/20180808/frf/kisspng-magnus-effect-lift-fluid-drag-force-baseball-physics-real-curves-and-dead-balls-5b6ad39464b8a7.6833949815337276364126.jpg)
   
-  O primeiro passo para o cumprimento do objetivo será construir o carrinho, que a princípio será feito de peças de lego. Em seguida, será colocado um motor DC RF-300 sobre o carrinho. Em cima do motor será posicionado um objeto circular que será submetido a rotação. 
-  Todo o dispositivo será posto na frente de um ventilador e o fluxo de ar criado pelo mesmo irá gerar uma força, a qual ocasionará a movimentação do carrinho, segundo o Efeito Magnus. Todo o movimento do corpo de prova será filmado para melhor análise.
+  O primeiro passo para o cumprimento do objetivo será construir o carrinho, que a princípio será feito de peças de lego. Em seguida, será colocado um motor DC RF-300 sobre o carrinho. Em cima do motor será posicionado um objeto circular que será submetido a rotação.  
+  Todo o dispositivo será posto na frente de um ventilador e o fluxo de ar criado pelo mesmo irá gerar uma força, a qual ocasionará a movimentação do carrinho, segundo o Efeito Magnus. Todo o movimento do corpo de prova será filmado para melhor análise.  
   Além disso, vamos utilizar um incenso que ficará localizado na inicio do fluxo de ar gerado pelo ventilador, fato que possibilitará a visualização das linhas de emissão do fluido em estudo.
 
 ### 1.5 Avaliação de viabilidade
 * Os materiais que serão utilizados são de fácil acesso?
 >>Alguns dos materiais podem ser encontrados em papelaria, os integrantes comprarão o motor, a câmera e o ventilador são de uso pessoal. Portanto, são todos de fácil acesso.
-* As ferramentas necessárias para comparar os resultados são viáveis?
->>A análise do resultado experimental será feita visualmente, com a alteração do movimento do carrinho. A ferramenta utilizada no processo será uma câmara que filmará todo o procedimento e depois os integrantes poderão concluir a real atuação do Efeito Magnus experimentalmente. Logo, as ferramentas são viáveis.
+* As ferramentas necessárias para comparar os resultados são viáveis?  
+>>A análise do resultado experimental será feita visualmente, com a alteração do movimento do carrinho. A ferramenta utilizada no processo será uma câmara que filmará todo o procedimento e depois os integrantes poderão concluir a real atuação do Efeito Magnus experimentalmente. Logo, as ferramentas são viáveis.  
 * Qual o tempo necessário para cumprir cada tarefa?
 >>A príncipio será disponibilizado o horário de 2h semanais para a execução das etapas do projeto para todos os integrantes. Cada tarefa será realizada de forma a otimizar o estudo. Primeiro montar a base com os equipamentos e medir todos os parâmetros necessários, em seguida os cálculos teóricos e experimentais e, por fim, análise de todos os resultados. Caso seja necessário, a carga horária pode ser aumentada de acordo com o disponibilidade de cada integrante. 
 
