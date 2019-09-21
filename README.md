@@ -10,36 +10,36 @@
 ### 1.1 Tema  
 Efeito Magnus
 
-### 1.2 Objetivos  
+### 1.2 Objetivos
 
-Criar um aparato experimental para comprovar o resultado do Efeito Magnus, tal objetivo será alcançado por meio de um experimento utlizando um carrinho leve com um dispositivo circular giratório sobre ele e um ventilador. Com isso poderemos provar que um dispositivo girando em um ambiente onde há fluxo de ar gera uma força que faz o carro se mover.
+ O objetivo principal é a comprovação do Efeito Magnus através de um aparato experimental criado pelo grupo.
 
-### 1.3 Escopo do Experimento 
-<p>O Efeito Magnus é gerado quando há um escoamento sobre um objeto circular rotativo, a movimentação circular do objeto gera alteração nas velocidades do fluido e na pressão, tal mudança ocasiona uma força no objeto, movimentando-o em relação à sua posição original.</p>
+### 1.3 Requisitos de Solução
 
-![Efeito Magnus](https://img2.gratispng.com/20180808/frf/kisspng-magnus-effect-lift-fluid-drag-force-baseball-physics-real-curves-and-dead-balls-5b6ad39464b8a7.6833949815337276364126.jpg)
-
-<p>Nossa equipe comprovará esse efeito a partir de um carrinho que será construído com um aparato rotativo na sua parte superior e será colocado na frente de um ventilador. O fluxo de ar criado pelo ventilador irá gerar uma força, a qual ocasionará a movimentação do carrinho, segundo o Efeito Magnus.</p>
-
-### 1.4 Requisitos de Solução
-
-<p>Para validar o experimento, será calculada teoricamanete a força gerada pelo efeito do fluido sobre o cilindro. Após esse processo, será feito a medição da velocidade do ar com um anemometro e a aceleração do carrinho utilizando uma cartolina preta, em que será desenhada uma escala metrica, e com uma câmera instalada na parte superior do experimento vamos medir o tempo e o espaço percorrido pelo corpo de teste. Com esses dados poderemos ver a força resultande experimental sobre o carrinho de teste e, então, compará-la com o resultado teórico.</p>
-
-<p>Além disso, vamos utilizar um incenso que ficará localizado na inicio do fluxo de ar gerado pelo ventilador, fato que possibilitará a visualização das linhas de emissão do fluido em estudo.</p>
+ Para cumprir o objetivo principal a solução escolhida foi utilizar um carrinho leve com um dispositivo circular sobre um motor de baixa potência acoplado ao carrinho e um ventilador. Através do fluxo de ar ao qual o carrinho será submetido o grupo poderá inferir sobre as consequências do Efeito Magnus. 
+ 
+ ### 1.4 Escopo do Experimento
+ 
+  O Efeito Magnus é gerado quando há um escoamento sobre um objeto circular rotativo, a movimentação circular do objeto gera alteração nas velocidades do fluido e na pressão, tal mudança ocasiona uma força no objeto, movimentando-o em relação à sua posição original.
+  
+  ![Efeito Magnus](https://img2.gratispng.com/20180808/frf/kisspng-magnus-effect-lift-fluid-drag-force-baseball-physics-real-curves-and-dead-balls-5b6ad39464b8a7.6833949815337276364126.jpg)
+  
+  O primeiro passo para o cumprimento do objetivo será construir o carrinho, que a princípio será feito de peças de lego. Em seguida, será colocado um motor DC RF-300 sobre o carrinho. Em cima do motor será posicionado um objeto circular que será submetido a rotação. 
+  Todo o dispositivo será posto na frente de um ventilador e o fluxo de ar criado pelo mesmo irá gerar uma força, a qual ocasionará a movimentação do carrinho, segundo o Efeito Magnus. Todo o movimento do corpo de prova será filmado para melhor análise.
+  Além disso, vamos utilizar um incenso que ficará localizado na inicio do fluxo de ar gerado pelo ventilador, fato que possibilitará a visualização das linhas de emissão do fluido em estudo.
 
 ### 1.5 Avaliação de viabilidade
 * Os materiais que serão utilizados são de fácil acesso?
->>Alguns dos materiais podem ser encontrados em papelaria, os integrantes disponibilizarão o motor elétrico, câmera e ventilador de uso pessoal e o anemômetro utilizado será da própria universidade. Portanto, são todos de fácil acesso.
+>>Alguns dos materiais podem ser encontrados em papelaria, os integrantes comprarão o motor, a câmera e o ventilador são de uso pessoal. Portanto, são todos de fácil acesso.
 * As ferramentas necessárias para comparar os resultados são viáveis?
->>Utilizaremos um software aberto para o cálculo da velocidade do carrinho e chegarmos na força experimental com a qual ele é submetido, dado esse resultado podemos comparar com a força teórica (Equação de Bernoulli). Uma vez que o software Cvmob é gratuito a comparação torna-se totalmente viável.
+>>A análise do resultado experimental será feita visualmente, com a alteração do movimento do carrinho. A ferramenta utilizada no processo será uma câmara que filmará todo o procedimento e depois os integrantes poderão concluir a real atuação do Efeito Magnus experimentalmente. Logo, as ferramentas são viáveis.
 * Qual o tempo necessário para cumprir cada tarefa?
 >>A príncipio será disponibilizado o horário de 2h semanais para a execução das etapas do projeto para todos os integrantes. Cada tarefa será realizada de forma a otimizar o estudo. Primeiro montar a base com os equipamentos e medir todos os parâmetros necessários, em seguida os cálculos teóricos e experimentais e, por fim, análise de todos os resultados. Caso seja necessário, a carga horária pode ser aumentada de acordo com o disponibilidade de cada integrante. 
 
 ### 1.6 Materiais 
-* carrinho de baixo custo
-* motor elétrico
+* carrinho de baixo custo (peças de lego)
+* motor DC RF-300
 * ventilador
-* cartolina preta com escala numérica
 * incenso
 * câmera
 
@@ -66,8 +66,6 @@ Datas | Tarefas
 
 * Movimentação do carrinho.
 * Linhas de corrente do fluxo de ar sobre o carrinho.
-* Distância percorrida pelo carrinho.
-* Tempo de deslocamento.
 
 ### 2.3 Resultados esperados 
 
