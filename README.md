@@ -23,7 +23,7 @@ Efeito Magnus
   O Efeito Magnus é gerado quando há um escoamento sobre um objeto circular rotativo, a movimentação circular do objeto gera alteração nas velocidades do fluido e na pressão, tal mudança ocasiona uma força no objeto, movimentando-o em relação à sua posição original.
   
   ![Efeito Magnus](https://img2.gratispng.com/20180808/frf/kisspng-magnus-effect-lift-fluid-drag-force-baseball-physics-real-curves-and-dead-balls-5b6ad39464b8a7.6833949815337276364126.jpg)
-  ![Carrinho](https://img2.gratispng.com/20180808/frf/kisspng-magnus-effect-lift-fluid-drag-force-baseball-physics-real-curves-and-dead-balls-5b6ad39464b8a7.6833949815337276364126.jpg)
+  ![carro](https://user-images.githubusercontent.com/54364084/65377090-0e92c300-dc7e-11e9-99bd-3d595f86fec7.png)
   
   O primeiro passo para o cumprimento do objetivo será construir o carrinho, que a princípio será feito de peças de lego. Em seguida, será colocado um motor DC RF-300 sobre o carrinho. Em cima do motor será posicionado um objeto circular que será submetido a rotação.  
   Todo o dispositivo será posto na frente de um ventilador e o fluxo de ar criado pelo mesmo irá gerar uma força, a qual ocasionará a movimentação do carrinho, segundo o Efeito Magnus. Todo o movimento do corpo de prova será filmado para melhor análise.  
