@@ -88,7 +88,7 @@ Datas | Tarefas
 ### 3.2 Descrição dos Procedimentos Realizados
 
 #### 3.2.1 Fotos do Experimento Montado:
-
+![Protótipo 1]
 #### 3.2.2 Descrição de cada procedimento executado e justificativa:
 
 </p> Descrever cada etapa e procedimento que realizamos e analisar os dados obtidos, justificando caso há algum dado discrepante.</p>
