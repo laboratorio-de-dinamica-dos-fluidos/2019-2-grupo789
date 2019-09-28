@@ -89,6 +89,7 @@ Datas | Tarefas
 
 #### 3.2.1 Fotos do Experimento Montado:
 ![Protótipo 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/IMG_5175.jpg)
+![Protótipo 1 video](https://www.youtube.com/watch?v=c1QH6zfWnfQ)
 
 </p> No primeiro protótiopo feito pelo grupo, o carro chegou a se movimentar, porém não havia certeza de que era o efeito magnus. Com isso o grupo optou por reduzir a potência do motor para um proximo ensaio.</p>
 
