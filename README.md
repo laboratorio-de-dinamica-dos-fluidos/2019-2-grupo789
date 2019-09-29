@@ -88,10 +88,16 @@ Datas | Tarefas
 ### 3.2 Descrição dos Procedimentos Realizados
 
 #### 3.2.1 Fotos do Experimento Montado:
+## Protótipo 1
+
 ![Protótipo 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/IMG_5175.jpg)
 [![Protótipo 1 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot1.jpg)](https://www.youtube.com/watch?v=c1QH6zfWnfQ)
 
 </p> No primeiro protótiopo feito pelo grupo, o carro chegou a se movimentar, porém não havia certeza de que era o efeito magnus. Com isso o grupo optou por reduzir a potência do motor para um proximo ensaio.</p>
+
+## Protótipo 2
+
+</p> O segeundo carinho foi montado com um motor menor que foi alimentado com uma tensão de 9V e com esse protótipo pode-se comprovar o efeito magnus, porém o ventilador usado não permitia um grande deslocamento do carro. </p>
 
 #### 3.2.2 Descrição de cada procedimento executado e justificativa:
 
