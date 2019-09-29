@@ -91,15 +91,22 @@ Datas | Tarefas
 ## Protótipo 1
 
 ![Protótipo 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/IMG_5175.jpg)
+
 [![Protótipo 1 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot1.jpg)](https://www.youtube.com/watch?v=c1QH6zfWnfQ)
 
 </p> No primeiro protótiopo feito pelo grupo, o carro chegou a se movimentar, porém não havia certeza de que era o efeito magnus. Com isso o grupo optou por reduzir a potência do motor para um proximo ensaio.</p>
 
 ## Protótipo 2
 
+![Protótipo 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prototipo2imagem.jpg)
+
+[![Protótipo 2 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot2.jpg)](https://www.youtube.com/watch?v=24QgFXlA3aE)
+
 </p> O segeundo carinho foi montado com um motor menor que foi alimentado com uma tensão de 9V e com esse protótipo pode-se comprovar o efeito magnus, porém o ventilador usado não permitia um grande deslocamento do carro. </p>
 
 #### 3.2.2 Descrição de cada procedimento executado e justificativa:
+
+</p> O carro foi colocado de forma que se mova perpendicularmente em relação ao fluxo do ventilador. Quando todo o sistema é ligado, ventilador e carrinho, observa-se que o carro se moveu graças ao efeito magnus.
 
 </p> Descrever cada etapa e procedimento que realizamos e analisar os dados obtidos, justificando caso há algum dado discrepante.</p>
 
