@@ -102,23 +102,15 @@ Datas | Tarefas
 
 [![Protótipo 2 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot2.jpg)](https://www.youtube.com/watch?v=24QgFXlA3aE)
 
-</p> O segundo carinho foi montado com um motor menor que foi alimentado com uma tensão de 9V e com esse protótipo pode-se comprovar o efeito magnus, porém o ventilador usado não permitia um grande deslocamento do carro. </p>
-
-## Protótipo 3
-
-![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/WhatsApp%20Image%202019-11-09%20at%2010.31.41.jpeg)
-
-[![Circuito do Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/circuito%20prot%C3%B3tipo%203.png)
-
-</p> O terceito protótipo foi feito com a mesma estrutura do segundo, porém com um circuito para variar a velocidade angular do motor, assim, poderiamos analisar melhor o efeito de acordo com a rotação. O experimento foi realizado no túnel de vento do laboratório de termofluidos, optamos pelo túnel visto que o ventilador não oferecia uma velocidade adequada de escolamento, tornando dificil a análise. </p>
-</p> Ao analisar o experimento, foi possivel notar que, devido ao fluxo turbulento perto das paredes do túnel, o carrinho se movimentava de forma não retilinea, além de haver uma trepidação gerada pela rotação do cilindro na velocidade maxima do motor. Assim, o grupo concluiu que o carrinho precisava de ajustes adequados. </p>
-
+</p> O segeundo carinho foi montado com um motor menor que foi alimentado com uma tensão de 9V e com esse protótipo pode-se comprovar o efeito magnus, porém o ventilador usado não permitia um grande deslocamento do carro. </p>
 
 #### 3.2.2 Descrição de cada procedimento executado e justificativa:
 
 </p> O carro foi colocado de forma que se mova perpendicularmente em relação ao fluxo do ventilador. Quando todo o sistema é ligado, ventilador e carrinho, observa-se que o carro se moveu graças ao efeito magnus.
 
-</p> Descrever cada etapa e procedimento que realizamos e analisar os dados obtidos, justificando caso há algum dado discrepante.</p>
+</p> Como descrito no item anterior, o grupo fez três protótipos para a análise. Sendo todos feitos com peças de lego, a diferença entre eles está no motor acoplado ao carrinho, ao qual faz o cilindro girar.</p> 
+
+ * O primeiro carrinho foi feito com um motor de alta potência, alimentado com uma tensão de 12V e com isso foi observado uma vibração excedente, que atrapalhou a confirmação do efeito magnus.  
 
 #### 3.2.3 Dados medidos:
 
