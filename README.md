@@ -92,8 +92,6 @@ Datas | Tarefas
 
 ![Protótipo 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/IMG_5175.jpg)
 
-![Protótipo 1 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot1.jpg)](https://www.youtube.com/watch?v=c1QH6zfWnfQ)
-
 ## Protótipo 2
 
 ![Protótipo 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prototipo2imagem.jpg)
