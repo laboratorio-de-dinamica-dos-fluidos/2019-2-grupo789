@@ -143,14 +143,14 @@ Voltagem | Velocidade
 
 ![Protótipo 1 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot1.jpg)](https://www.youtube.com/watch?v=c1QH6zfWnfQ)
 
-Não foi possível concluir o efeito magnus com o primeiro teste, devido a baixa potência do ventilador utilizado e, em contrapartida, a alta potência do sistema montado.
+>Não foi possível concluir o efeito magnus com o primeiro teste, devido a baixa potência do ventilador utilizado e, em contrapartida, a alta potência do sistema montado.
 
 * Teste 2:
 > Foi feito outro teste, agora com o protótipo 2, que visava consertar os erros cometidos anteriormente.
 
 ![Protótipo 2 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot2.jpg)](https://www.youtube.com/watch?v=24QgFXlA3aE)
 
-Mesmo com melhorias pendentes, é possível ver o carrinho se movento perpendicularmente ao fluxo de ar, comprovando assim o efeito magnus.
+>Mesmo com melhorias pendentes, é possível ver o carrinho se movento perpendicularmente ao fluxo de ar, comprovando assim o efeito magnus.
 
 * Teste 3:
 > Como gostariamos de ver o movimento com maior transparência, decidimos utilizar o protótipo 3 e mudar o fluxo de ar. Ao invés de utilizarmos um ventilador convencional, utilizamos o túnel de vento do laboratório de termofluidos da Univerdade de Brasília - Faculdade do Gama. E novamente notamos o movimento realizado pelo carrinho. Um movimento variado e não retilíneo. Como o fluxo de ar dentro do túnel de vento torna-se turbulento, decidimos não utilizar o incenso, já que as linhas de corrente se dispersariam instaneamente. 
