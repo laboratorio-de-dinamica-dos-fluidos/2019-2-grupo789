@@ -109,7 +109,7 @@ Datas | Tarefas
 </p> Como descrito no item anterior, o grupo fez quatro protótipos para a análise. Sendo todos feitos com peças de lego, a diferença entre eles está no motor acoplado ao carrinho, ao qual faz o cilindro girar.</p> 
 
  * O primeiro carrinho foi feito com um motor de alta potência, alimentado com uma bateria de 12V e com essa alta tensão, teve-se uma velocidade acima do esperado o que atrapalhou a confirmação do efeito magnus, já que o fluxo de ar do ventilador utilizado era baixo comparado com a rotação proporcionada pelo motor. Com isso, os integrantes decidiram montar um segundo protótipo com as melhorias necessárias.  
- * Para o segundo teste, foi utilizado uma fonte de 9V ligada a um circuito que fornecia tensão ao novo motor de baixa potência. No teste realizado foi possível notar a presença de movimento devido ao fluxo de ar. Mas novamente precisava de melhorias. Como a fonte não estava disposta no carrinho, foi visto uma falta de mobilidade do mesmo quando submetido ao fluxo e então a melhoria agora imposta seria melhorar o circuito de fornecimento de tensão ao motor. 
+ * Para o segundo teste, foi utilizado uma fonte de 9V ligada a um circuito que fornecia tensão ao novo motor de baixa potência. No teste realizado foi possível notar a presença de movimento devido ao fluxo de ar. Mas novamente precisava de melhorias. Como a fonte não estava disposta no carrinho, foi visto uma falta de mobilidade do mesmo quando submetido ao fluxo e então a melhoria agora imposta seria no circuito de fornecimento de tensão ao motor. 
 
 #### 3.2.3 Dados medidos:
 
