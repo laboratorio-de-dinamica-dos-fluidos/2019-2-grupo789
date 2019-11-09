@@ -1,6 +1,6 @@
 # 2019.2-efeito.magnus-carrinho
 
-  ![Efeito Magnus](https://media.giphy.com/media/dEqQDe15aLxzW/giphy.gif)
+  ![Efeito Magnus](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/giphy.gif)
 
 #### Integrantes: 
 * Arthur de Lima Queiroga - 14/0131078
