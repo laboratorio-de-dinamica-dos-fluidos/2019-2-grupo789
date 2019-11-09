@@ -108,7 +108,7 @@ Datas | Tarefas
 
 ![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/WhatsApp%20Image%202019-11-09%20at%2010.31.41.jpeg)
 
-[![Circuito do Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/dinaflu_circuito.pdf)
+[![Circuito do Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/circuito%20prot%C3%B3tipo%203.png)
 
 </p> O terceito protótipo foi feito com a mesma estrutura do segundo, porém com um circuito para variar a velocidade angular do motor, assim, poderiamos analisar melhor o efeito de acordo com a rotação. O experimento foi realizado no túnel de vento do laboratório de termofluidos, optamos pelo túnel visto que o ventilador não oferecia uma velocidade adequada de escolamento, tornando dificil a análise. </p>
 </p> Ao analisar o experimento, foi possivel notar que, devido ao fluxo turbulento perto das paredes do túnel, o carrinho se movimentava de forma não retilinea, além de haver uma trepidação gerada pela rotação do cilindro na velocidade maxima do motor. Assim, o grupo concluiu que o carrinho precisava de ajustes adequados. </p>
