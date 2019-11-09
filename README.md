@@ -109,21 +109,21 @@ Datas | Tarefas
 </p> Como descrito no item anterior, o grupo fez quatro protótipos para a análise. Sendo todos feitos com peças de lego, a diferença entre eles está no motor acoplado ao carrinho, ao qual faz o cilindro girar.</p>
 
  * Protótipo 1:
->> O primeiro carrinho foi feito com um motor de alta potência, alimentado com uma bateria de 12V e com essa alta tensão, teve-se uma velocidade acima do esperado o que atrapalhou a confirmação do efeito magnus, já que o fluxo de ar do ventilador utilizado era baixo comparado com a rotação proporcionada pelo motor. Com isso, os integrantes decidiram montar um segundo protótipo com as melhorias necessárias.  
+> O primeiro carrinho foi feito com um motor de alta potência, alimentado com uma bateria de 12V e com essa alta tensão, teve-se uma velocidade acima do esperado o que atrapalhou a confirmação do efeito magnus, já que o fluxo de ar do ventilador utilizado era baixo comparado com a rotação proporcionada pelo motor. Com isso, os integrantes decidiram montar um segundo protótipo com as melhorias necessárias.  
 
 ![Protótipo 1 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot1.jpg)](https://www.youtube.com/watch?v=c1QH6zfWnfQ)
 
  * Protótipo 2:
->> Para o segundo teste, foi utilizado uma fonte de 9V ligada a um circuito que fornecia tensão ao novo motor de baixa potência. No teste realizado foi possível notar a presença de movimento devido ao fluxo de ar. Mas novamente precisava de melhorias. Como a fonte não estava disposta no carrinho, foi visto uma falta de mobilidade do mesmo quando submetido ao fluxo e então a melhoria agora imposta seria no circuito de fornecimento de tensão ao motor. 
+> Para o segundo teste, foi utilizado uma fonte de 9V ligada a um circuito que fornecia tensão ao novo motor de baixa potência. No teste realizado foi possível notar a presença de movimento devido ao fluxo de ar. Mas novamente precisava de melhorias. Como a fonte não estava disposta no carrinho, foi visto uma falta de mobilidade do mesmo quando submetido ao fluxo e então a melhoria agora imposta seria no circuito de fornecimento de tensão ao motor. 
 
 ![Protótipo 2 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot2.jpg)](https://www.youtube.com/watch?v=24QgFXlA3aE)
 
  * Protótipo 3:
->> O terceito protótipo foi feito com a mesma estrutura do segundo, porém com um circuito para variar a velocidade angular do motor, assim, poderiamos analisar melhor o efeito de acordo com a rotação. O experimento foi realizado no túnel de vento do laboratório de termofluidos, optamos pelo túnel visto que o ventilador não oferecia uma velocidade adequada de escolamento, tornando dificil a análise.
+> O terceito protótipo foi feito com a mesma estrutura do segundo, porém com um circuito para variar a velocidade angular do motor, assim, poderiamos analisar melhor o efeito de acordo com a rotação. O experimento foi realizado no túnel de vento do laboratório de termofluidos, optamos pelo túnel visto que o ventilador não oferecia uma velocidade adequada de escolamento, tornando dificil a análise.
 
 ![Protótipo 3 circuito](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/circuito%20prot%C3%B3tipo%203.png)
 
->> A imagem acima descreve o circuito projetado para o protótipo 3, nele foi utilizado um motor DC, um conjunto de 4 pilhas de 1,5V cada, fios pretos e vermelhos, um suporte para 4 pilhas e chaves para abrir e fechar o circuito. A velocidade angular do motor era alterada pela variação de voltagem, a qual era possivel pela montagem do circuito descrito na imagem acima. As velocidades e os níveis obtidos são descritos na tabela abaixo:
+> A imagem acima descreve o circuito projetado para o protótipo 3, nele foi utilizado um motor DC, um conjunto de 4 pilhas de 1,5V cada, fios pretos e vermelhos, um suporte para 4 pilhas e chaves para abrir e fechar o circuito. A velocidade angular do motor era alterada pela variação de voltagem, a qual era possivel pela montagem do circuito descrito na imagem acima. As velocidades e os níveis obtidos são descritos na tabela abaixo:
 
 Voltagem | Velocidade
 ---------|------------------
@@ -132,7 +132,7 @@ Voltagem | Velocidade
   4,5 V  | 3, media alta
   6 V  | 4, alta
 
->> Ao analisar o experimento, foi possivel notar que, devido ao fluxo turbulento perto das paredes do túnel, o carrinho se movimentava de forma não retilinea, além de haver uma trepidação gerada pela rotação do cilindro na velocidade maxima do motor (4). Assim, o grupo concluiu que o carrinho precisava de ajustes adequados, costruindo, então o protótipo 4.
+> Ao analisar o experimento, foi possivel notar que, devido ao fluxo turbulento perto das paredes do túnel, o carrinho se movimentava de forma não retilinea, além de haver uma trepidação gerada pela rotação do cilindro na velocidade maxima do motor (4). Assim, o grupo concluiu que o carrinho precisava de ajustes adequados, construindo, então o protótipo 4.
 
 ![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/dinaflu1.gif)
 
