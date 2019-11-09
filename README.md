@@ -134,7 +134,7 @@ Voltagem | Velocidade
 
 > Ao analisar o experimento, foi possivel notar que, devido ao fluxo turbulento perto das paredes do túnel, o carrinho se movimentava de forma não retilinea, além de haver uma trepidação gerada pela rotação do cilindro na velocidade maxima do motor (4). Assim, o grupo concluiu que o carrinho precisava de ajustes adequados, construindo, então o protótipo 4.
 
-![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/dinaflu1.gif)
+![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/A351DCE4-2E6E-473E-B372-C7DFFF9CC73B.gif)
 
 
 #### 3.2.3 Dados medidos:
