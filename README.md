@@ -126,7 +126,7 @@ Datas | Tarefas
 >> A imagem acima descreve o circuito projetado para o protótipo 3, nele foi utilizado um motor DC, um conjunto de 4 pilhas de 1,5V cada, fios pretos e vermelhos, um suporte para 4 pilhas e chaves para abrir e fechar o circuito. A velocidade angular do motor era alterada pela variação de voltagem, a qual era possivel pela montagem do circuito descrito na imagem acima. As velocidades e os níveis obtidos são descritos na tabela abaixo:
 
 Voltagem | Velocidade
----------|--------
+---------|------------------
   1,5 V  | 1, baixa
     3 V  | 2, media baixa
   4,5 V  | 3, media alta
