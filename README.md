@@ -104,19 +104,15 @@ Datas | Tarefas
 
 #### 3.2.2 Descrição de cada procedimento executado e justificativa:
 
-</p> O carro foi colocado de forma que se mova perpendicularmente em relação ao fluxo do ventilador. Quando todo o sistema é ligado, ventilador e carrinho, observa-se que o carro se moveu graças ao efeito magnus.
+</p> Para a comprovação do efeito magnus, o carro e seus componentes foram colocados de forma que se mova perpendicularmente em relação ao fluxo de ar cedido. Depois de alguns testes e ajustes, chegamos ao esperado e quando todo o sistema foi ligado, ventilador e motor que rotaciona o cilindro, observa-se que o carro se moveu graças ao efeito magnus.
 
-</p> Como descrito no item anterior, o grupo fez quatro protótipos para a análise. Sendo todos feitos com peças de lego, a diferença entre eles está no motor acoplado ao carrinho, ao qual faz o cilindro girar.</p>
+</p> Com a finalidade de obtermos resultados excelentes, foram feitos quatro protótipos para a análise, visto que a cada novo teste sentimos a necessidade de melhorias para a melhor visualização do efeito magnus. Todos os carrinhos foram feitos com peças de lego, sendo então, leve e de fácil montagem. A principal diferença entre os testes é notada pelo tipo de circuito ou motores utilizados na rotação do cilindro, que foi acoplado acima do motor no carrinho.</p>
 
  * Protótipo 1:
 > O primeiro carrinho foi feito com um motor de alta potência, alimentado com uma bateria de 12V e com essa alta tensão, teve-se uma velocidade acima do esperado o que atrapalhou a confirmação do efeito magnus, já que o fluxo de ar do ventilador utilizado era baixo comparado com a rotação proporcionada pelo motor. Com isso, os integrantes decidiram montar um segundo protótipo com as melhorias necessárias.  
 
-![Protótipo 1 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot1.jpg)](https://www.youtube.com/watch?v=c1QH6zfWnfQ)
-
  * Protótipo 2:
-> Para o segundo teste, foi utilizado uma fonte de 9V ligada a um circuito que fornecia tensão ao novo motor de baixa potência. No teste realizado foi possível notar a presença de movimento devido ao fluxo de ar. Mas novamente precisava de melhorias. Como a fonte não estava disposta no carrinho, foi visto uma falta de mobilidade do mesmo quando submetido ao fluxo e então a melhoria agora imposta seria no circuito de fornecimento de tensão ao motor. 
-
-![Protótipo 2 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot2.jpg)](https://www.youtube.com/watch?v=24QgFXlA3aE)
+> Para o segundo teste, foi utilizado uma fonte de 9V ligada, sem nenhum tipo de regulagem, interligada a uma placa de ensaio que fornecia tensão ao novo motor de baixa potência. No teste realizado, mesmo com um ventilador com baixa velocidade utilizado no experimento anterior, foi possível notar a presença de movimento devido ao fluxo de ar. Mas novamente precisava de melhorias. Como a fonte não estava disposta no carrinho, foi visto uma falta de mobilidade do mesmo quando submetido ao fluxo e então a melhoria, agora imposta, seria no circuito de fornecimento de tensão ao motor.  
 
  * Protótipo 3:
 > O terceito protótipo foi feito com a mesma estrutura do segundo, porém com um circuito para variar a velocidade angular do motor, assim, poderiamos analisar melhor o efeito de acordo com a rotação. O experimento foi realizado no túnel de vento do laboratório de termofluidos, optamos pelo túnel visto que o ventilador não oferecia uma velocidade adequada de escolamento, tornando dificil a análise.
@@ -134,12 +130,38 @@ Voltagem | Velocidade
 
 > Ao analisar o experimento, foi possivel notar que, devido ao fluxo turbulento perto das paredes do túnel, o carrinho se movimentava de forma não retilinea, além de haver uma trepidação gerada pela rotação do cilindro na velocidade maxima do motor (4). Assim, o grupo concluiu que o carrinho precisava de ajustes adequados, construindo, então o protótipo 4.
 
-![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/A351DCE4-2E6E-473E-B372-C7DFFF9CC73B.gif)
+* Protótipo 4:
+>
 
 
 #### 3.2.3 Dados medidos:
 
-</p> Apresentar fotos e videos do experimento sendo feito, os quais deverão conter o movimento do carrinho e as linhas de dcorrente obtidas com o incenso.</p>
+</p> Com o objetivo de mostrar a movimentação obtida com todo o sistema, fizemos filmagens dos testes que serão apresentadas nesse tópico.</p>
+
+* Teste 1:
+> O primeiro teste foi feito para validação do protótipo 1.
+
+![Protótipo 1 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot1.jpg)](https://www.youtube.com/watch?v=c1QH6zfWnfQ)
+
+Não foi possível concluir o efeito magnus com o primeiro teste, devido a baixa potência do ventilador utilizado e, em contrapartida, a alta potência do sistema montado.
+
+* Teste 2:
+> Foi feito outro teste, agora com o protótipo 2, que visava consertar os erros cometidos anteriormente.
+
+![Protótipo 2 video](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/prot2.jpg)](https://www.youtube.com/watch?v=24QgFXlA3aE)
+
+Mesmo com melhorias pendentes, é possível ver o carrinho se movento perpendicularmente ao fluxo de ar, comprovando assim o efeito magnus.
+
+* Teste 3:
+> Como gostariamos de ver o movimento com maior transparência, decidimos utilizar o protótipo 3 e mudar o fluxo de ar. Ao invés de utilizarmos um ventilador convencional, utilizamos o túnel de vento do laboratório de termofluidos da Univerdade de Brasília - Faculdade do Gama. E novamente notamos o movimento realizado pelo carrinho. Um movimento variado e não retilíneo. Como o fluxo de ar dentro do túnel de vento torna-se turbulento, decidimos não utilizar o incenso, já que as linhas de corrente se dispersariam instaneamente. 
+
+![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/A351DCE4-2E6E-473E-B372-C7DFFF9CC73B.gif)
+
+* Teste 4:
+>
+
+
+
 
 
 
