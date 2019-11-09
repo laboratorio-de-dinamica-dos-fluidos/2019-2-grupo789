@@ -128,9 +128,9 @@ Datas | Tarefas
 Voltagem | Velocidade
 ---------|------------------
   1,5 V  | 1, baixa
-    3 V  | 2, media baixa
+  3 V  | 2, media baixa
   4,5 V  | 3, media alta
-    6 V  | 4, alta
+  6 V  | 4, alta
 
 >> Ao analisar o experimento, foi possivel notar que, devido ao fluxo turbulento perto das paredes do túnel, o carrinho se movimentava de forma não retilinea, além de haver uma trepidação gerada pela rotação do cilindro na velocidade maxima do motor (4). Assim, o grupo concluiu que o carrinho precisava de ajustes adequados, costruindo, então o protótipo 4.
 
