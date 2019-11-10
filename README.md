@@ -138,8 +138,7 @@ Voltagem | Velocidade
 > Ao analisar o experimento, foi possivel notar que, devido ao fluxo turbulento perto das paredes do túnel, o carrinho se movimentava de forma não retilinea, além de haver uma trepidação gerada pela rotação do cilindro na velocidade maxima do motor (4). Assim, o grupo concluiu que o carrinho precisava de ajustes adequados, construindo, então o protótipo 4.
 
 * Protótipo 4:
-> Esse carrinho foi feito com o mesmo motor do primeiro protótipo 1, de 920 kv. E um amortecedor para reduzir a vibraçaão excessiva causada pelo copo que é difícil de fazer a furação. Com um copo de diâmetro X.
-
+> Esse carrinho foi feito com o motor de 920 kv, um amortecedor para reduzir a vibraçaão excessiva causada pelo copo, um esc de 30A(eletronic speed control), um radiocontrole de modelismo e um recptor. Para realização do experimento o o motor foi ligado a uma velocidade baixa em que o carro apresentava a menor trepidação possível e se movia dentro do túnel de vento.
 
 #### 3.2.3 Dados medidos:
 
@@ -165,7 +164,7 @@ Voltagem | Velocidade
 ![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/A351DCE4-2E6E-473E-B372-C7DFFF9CC73B.gif)
 
 * Teste 4:
-> Nesse ensaio com um carrinho com menos vibrção e com uma velocidade de rotação menor. Com o um diâmetro de 572 mm do copo pode-se calcular as velocidade onde haverá o máximo e o mínimo de pressão. Com uma filmagem em câmera lenta onde foi usado uma configurção de 240 frames por segundo pode-se observar e calcular a velocidade angular do aparato. No copo em análise foi pintada uma faixa preta para a contagem das rotações, em uma filmagem de 10 segundo observou-se que a faixa preta pssou 61 vezes nesse intervalo de tempo. Dessa forma chegou-se a conclusão que o copo tem uma velocidade de 366 rotaçoes por minuto.
+> Nesse ensaio o carrinho apresentava menos vibração com uma velocidade de rotação menor. Usando o diâmetro de 572 mm do copo pode-se calcular o Reynolds. Com uma filmagem em câmera lenta onde foi usado uma configurção de 240 frames por segundo pode-se observar e calcular a velocidade angular do aparato. No copo em análise foi pintada uma faixa preta para a contagem das rotações, em uma filmagem de 10 segundo observou-se que a faixa preta pssou 61 vezes nesse intervalo de tempo. Dessa forma chegou-se a conclusão que o copo tem uma velocidade de 366 rotaçoes por minuto.
 
 ![Protótipo 4](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/IMG_7059-Copia_Trim.gif)
 
