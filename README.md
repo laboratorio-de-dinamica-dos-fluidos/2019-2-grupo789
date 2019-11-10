@@ -165,11 +165,11 @@ Voltagem | Velocidade
 ![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/A351DCE4-2E6E-473E-B372-C7DFFF9CC73B.gif)
 
 * Teste 4:
-> Nesse ensaio com um carrinho com menos vibrção e com uma velocidade de rotação menor, de XX rad/s. e sabendo o raio do copo pode-se calcular as velocidade onde haverá o máximo e o mínimo de pressão. Com uma filamegem de cãmera lenta onde foi usado uma configurção de 240 frames por segundo pod-se observar e calcular a velocidade angular do aparato.
+> Nesse ensaio com um carrinho com menos vibrção e com uma velocidade de rotação menor, de XX rad/s. e sabendo o raio do copo pode-se calcular as velocidade onde haverá o máximo e o mínimo de pressão. Com uma filamegem de cãmera lenta onde foi usado uma configurção de 240 frames por segundo pod-se observar e calcular a velocidade angular do aparato. em uma filmagem de 10 segundo observou-se que a faixa preta pssou 61 vezes em um filmagem de 10 segundos. Dessa forma chegou-se a conclusão que o copo tem uma velocidade de 366 rotaçoes por minuto.
 
-![Protótipo 4]( )
+![Protótipo 4](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/IMG_7059-Copia_Trim.gif)
 
-!ensaio 
+
 
 
 
