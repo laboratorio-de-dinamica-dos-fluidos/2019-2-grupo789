@@ -48,6 +48,7 @@ Efeito Magnus
 * câmera
 
 
+
 ## 2. Planejamento e Preparação
 ### 2.1 Procedimentos Experimentais
 
@@ -102,6 +103,12 @@ Datas | Tarefas
 
 ![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/WhatsApp%20Image%202019-11-09%20at%2010.31.41.jpeg)
 
+## Protótipo 4
+
+![Protótipo 4](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/IMG_7137.heic)
+
+
+
 #### 3.2.2 Descrição de cada procedimento executado e justificativa:
 
 </p> Para a comprovação do efeito magnus, o carro e seus componentes foram colocados de forma que se mova perpendicularmente em relação ao fluxo de ar cedido. Depois de alguns testes e ajustes, chegamos ao esperado e quando todo o sistema foi ligado, ventilador e motor que rotaciona o cilindro, observa-se que o carro se moveu graças ao efeito magnus.
@@ -131,7 +138,7 @@ Voltagem | Velocidade
 > Ao analisar o experimento, foi possivel notar que, devido ao fluxo turbulento perto das paredes do túnel, o carrinho se movimentava de forma não retilinea, além de haver uma trepidação gerada pela rotação do cilindro na velocidade maxima do motor (4). Assim, o grupo concluiu que o carrinho precisava de ajustes adequados, construindo, então o protótipo 4.
 
 * Protótipo 4:
->
+> Esse carrinho foi feito com o mesmo motor do primeiro protótipo 1, de 920 kv. E um amortecedor para reduzir a vibraçaão excessiva causada pelo copo que é difícil de fazer a furação. Com um copo de diâmetro X.
 
 
 #### 3.2.3 Dados medidos:
@@ -158,7 +165,11 @@ Voltagem | Velocidade
 ![Protótipo 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/A351DCE4-2E6E-473E-B372-C7DFFF9CC73B.gif)
 
 * Teste 4:
->
+> Nesse ensaio com um carrinho com menos vibrção e com uma velocidade de rotação menor, de XX rad/s. e sabendo o raio do copo pode-se calcular as velocidade onde haverá o máximo e o mínimo de pressão. Com uma filamegem de cãmera lenta onde foi usado uma configurção de 240 frames por segundo pod-se observar e calcular a velocidade angular do aparato.
+
+![Protótipo 4]( )
+
+!ensaio 
 
 
 
