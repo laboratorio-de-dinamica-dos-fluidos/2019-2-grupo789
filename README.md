@@ -34,11 +34,11 @@ Efeito Magnus
   
 ### 1.5 Avaliação de viabilidade
 * Os materiais que serão utilizados são de fácil acesso?
->>Os integrantes comprarão o motor e o incenso, a câmera e o ventilador são de uso pessoal. Portanto, são todos de fácil acesso, já que os materiais que serão comprados são facilmente encontrados.
+>Os integrantes comprarão o motor e o incenso, a câmera e o ventilador são de uso pessoal. Portanto, são todos de fácil acesso, já que os materiais que serão comprados são facilmente encontrados.
 * As ferramentas necessárias para comparar os resultados são viáveis?  
->>A análise do resultado experimental será feita visualmente, com a alteração do movimento do carrinho. A ferramenta utilizada no processo será uma câmara que filmará todo o procedimento e depois os integrantes poderão concluir a real atuação do Efeito Magnus experimentalmente. A verificação das linhas de corrente serão feitas com incenso de fácil acesso. Logo, as ferramentas são viáveis.  
+>A análise do resultado experimental será feita visualmente, com a alteração do movimento do carrinho. A ferramenta utilizada no processo será uma câmara que filmará todo o procedimento e depois os integrantes poderão concluir a real atuação do Efeito Magnus experimentalmente. A verificação das linhas de corrente serão feitas com incenso de fácil acesso. Logo, as ferramentas são viáveis.  
 * Qual o tempo necessário para cumprir cada tarefa?
->>A príncipio será disponibilizado o horário de 2h semanais para a execução das etapas do projeto para todos os integrantes. Cada tarefa será realizada de forma a otimizar o estudo. Primeiro montar a base com os equipamentos e medir todos os parâmetros necessários, em seguida os cálculos teóricos e experimentais e, por fim, análise de todos os resultados. Caso seja necessário, a carga horária pode ser aumentada de acordo com o disponibilidade de cada integrante. 
+>A príncipio será disponibilizado o horário de 2h semanais para a execução das etapas do projeto para todos os integrantes. Cada tarefa será realizada de forma a otimizar o estudo. Primeiro montar a base com os equipamentos e medir todos os parâmetros necessários, em seguida os cálculos teóricos e experimentais e, por fim, análise de todos os resultados. Caso seja necessário, a carga horária pode ser aumentada de acordo com o disponibilidade de cada integrante. 
 
 ### 1.6 Materiais 
 * carrinho de baixo custo (peças de lego)
@@ -173,8 +173,8 @@ Voltagem | Velocidade
 
 ### 4.1 Apresentação dos dados medidos no experimento
 
-</p> O objetivo do experimento em questão é a comprovação do Efeito Magnus por meio de testes com um aparato feito pelos integrantes. Para tanto, o grupo realizou a construção de todo o mecanismo e, para que tenha validez tudo foi devidamente filmado e exposto no item anterior.  
-</p> Como o carrinho se movimentou no sentido perpendicular ao fluxo de ar, é possível notar a existência de uma força que surge pela diferença de pressão entre o ar que flui pelo copo e consequentemente pelos vortices criados na parede do copo. Porém, decidimos analisar todo o movimento do ponto de vista experimental e não analítico, já que a parte teórica envolvida é bastante complexa para o escopo dos testes. Portanto, realizamos apenas imagens que comprovasse a existência do movimento em questão.</p>
+   O objetivo do experimento em questão é a comprovação do Efeito Magnus por meio de testes com um aparato feito pelos integrantes. Para tanto, o grupo realizou a construção de todo o mecanismo e, para que tenha validez tudo foi devidamente filmado e exposto no item anterior.  
+  Como o carrinho se movimentou no sentido perpendicular ao fluxo de ar, é possível notar a existência de uma força que surge pela diferença de pressão entre o ar que flui pelo copo e consequentemente pelos vortices criados na parede do copo. Porém, decidimos analisar todo o movimento do ponto de vista experimental e não analítico, já que a parte teórica envolvida é bastante complexa para o escopo dos testes. Portanto, realizamos apenas imagens que comprovasse a existência do movimento em questão.</p>
 
 
 
