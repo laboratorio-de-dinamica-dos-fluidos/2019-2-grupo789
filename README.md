@@ -90,7 +90,7 @@ Datas | Tarefas
 
 ### 3.2 Descrição dos Procedimentos Realizados
 
-#### 3.2.1 Fotos do Experimento Montado:
+#### 3.2.1 Fotos do Experimento Montado
 ## Protótipo 1
 
 ![Protótipo 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/IMG_5175.jpg)
@@ -109,7 +109,7 @@ Datas | Tarefas
 
 
 
-#### 3.2.2 Descrição de cada procedimento executado e justificativa:
+#### 3.2.2 Descrição de cada procedimento executado e justificativa
 
 </p> Para a comprovação do efeito magnus, o carro e seus componentes foram colocados de forma que se mova perpendicularmente em relação ao fluxo de ar cedido. Depois de alguns testes e ajustes, chegamos ao esperado e quando todo o sistema foi ligado, ventilador e motor que rotaciona o cilindro, observa-se que o carro se moveu graças ao efeito magnus.
 
@@ -140,7 +140,7 @@ Voltagem | Velocidade
 * Protótipo 4:
 > Após os testes anteriores, concluímos que o erro poderia estar no carrinho e não no motor, já que mesmo após a mudança de um motor de alta potência para um de baixa potência as vibrações continuavam. Então para esse protótipo utilizamos o mesmo motor do primeiro teste.  A mudança foi feita no carrinho, a estrutura continua sendo de lego, porém agora com um amortecedor para reduzir a vibração excessiva causada pelo motor. O protótipo é composto por um motor de 920 kv acoplado no carrinho com amortecedor, e um esc de 30A (eletronic speed control), um radiocontrole de modelismo e um recptor. Para realização do experimento o motor foi ligado a uma velocidade baixa em que o carro apresentava a menor trepidação possível e se movia dentro do túnel de vento. 
 
-#### 3.2.3 Dados medidos:
+#### 3.2.3 Dados medidos
 
 </p> Com o objetivo de mostrar a movimentação obtida com todo o sistema, fizemos filmagens dos testes que serão apresentadas nesse tópico.</p>
 
@@ -169,8 +169,11 @@ Voltagem | Velocidade
 ![Protótipo 4](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-grupo789/blob/master/IMG_7059-Copia_Trim.gif)
 
 
+## 4. Análise e Conclusão
 
+### 4.1 Apresentação dos dados medidos no experimento
 
+</p> O objetivo do experimento em questão é a comprovação do Efeito Magnus por meio de testes com um aparato feito pelos integrantes. Para tanto, o grupo realizou a construção de todo o mecanismo e, para que tenha validez tudo foi devidamente filmado e exposto no item anterior.</p>
 
 
 
