@@ -174,6 +174,7 @@ Voltagem | Velocidade
 ### 4.1 Apresentação dos dados medidos no experimento
 
 </p> O objetivo do experimento em questão é a comprovação do Efeito Magnus por meio de testes com um aparato feito pelos integrantes. Para tanto, o grupo realizou a construção de todo o mecanismo e, para que tenha validez tudo foi devidamente filmado e exposto no item anterior.</p>
+</p> Como o carrinho se movimentou no sentido perpendicular ao fluxo de ar, é possível notar a existência de uma força que surge pela diferença de pressão entre o ar que flui pelo copo e consequentemente pelos vortices criados na parede do copo. Porém, decidimos analisar todo o movimento do ponto de vista experimental e não analítico, já que a parte teórica envolvida é bastante complexa para o escopo dos testes. Portanto, realizamos apenas imagens que comprovasse a existência do movimento em questão.</p>
 
 
 
