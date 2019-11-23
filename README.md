@@ -173,14 +173,14 @@ Voltagem | Velocidade
 
 ### 4.1 Apresentação dos dados medidos no experimento
 
-   O objetivo do experimento em questão é a comprovação do Efeito Magnus por meio de testes com um aparato feito pelos integrantes. Para tanto, o grupo realizou a construção de todo o mecanismo e, para que tenha validez tudo foi devidamente filmado e exposto no item anterior. 
-   Nos protótipos 2,3 e 4 pode-se observar que o carrinho se movimentou graças ao Efeito Magnus. Nos casos 2 e 3 os carrinhos apresentavam uma vibraçao excessiva que prejudicava o experimento. Já com o ensaio do protótipo 4 o carrinho apresentou um movimento retilínio dentro do túnel de vento. Infelizmente a observação das linhas de corrente não foi realizada, pois o ensaio com o incenso não foi possível de ser feito. O incenso usado pelo grupo não era adequado para realizar o experimento pois ele não formava linhas de corrente uniformes. O uso de uma máquina de fumaça haze poderia ajudar a observar a linhas de corrente.
+   O objetivo do experimento em questão é a comprovação do Efeito Magnus por meio de testes com um aparato feito pelos integrantes. Para tanto, o grupo realizou a construção de todo o mecanismo e, para que tenha validez tudo foi devidamente filmado e exposto no item anterior. </p>
+   Nos protótipos 2,3 e 4 pode-se observar que o carrinho se movimentou graças ao Efeito Magnus. Nos casos 2 e 3 os carrinhos apresentavam uma vibraçao excessiva que prejudicava o experimento. Já com o ensaio do protótipo 4 o carrinho apresentou um movimento retilínio dentro do túnel de vento. Infelizmente a observação das linhas de corrente não foi realizada, pois o ensaio com o incenso não foi possível de ser feito. O incenso usado pelo grupo não era adequado para realizar o experimento pois ele não formava linhas de corrente uniformes. O uso de uma máquina de fumaça haze poderia ajudar a observar a linhas de corrente.</p>
    
 ### 4.2 Comparação dos resultados com a teoria envolvida
   Como o carrinho se movimentou no sentido perpendicular ao fluxo de ar, é possível notar a existência de uma força que surge pela diferença de pressão entre o ar que flui pelo copo e consequentemente pelos vortices criados na parede do copo. Porém, decidimos analisar todo o movimento do ponto de vista experimental e não analítico, já que a parte teórica envolvida é bastante complexa para o escopo dos testes. Portanto, realizamos apenas com imagens que comprovasse a existência do movimento em questão.</p>
 
 ### 4.3 Conclusão do experimento
-  
+  De acordo com a análise do experimento, é possível obter o Efeito Magnus de forma simples. Um carro com um copo rotativo em um fluxo de ar perpendicular ao seu movimento gera uma força que o faz se movimentar. Um ponto importante para a realização do experimento é a velocidade de rotação do copo que não pode ser muito alta porque o escoamento pode acabar se tornando compressível e invalidando o experimento. A ausência das linhas de corrente não permitiu observar a camada limite do sistema, mas a força gerada pelo Efeito Magnus foi claramente observada com o movimento dos protótipos.
   
 
 
